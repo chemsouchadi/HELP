@@ -1,0 +1,1 @@
+<?php echo "C’est mon premier message PHP.";  // un test echo "Ce test est réussi"; ?> 
